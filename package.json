@@ -1,9 +1,10 @@
 {
   "name": "number-to-word-persian",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Convert numbers to Persian words.",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
   "scripts": {
     "build": "tsc",
     "test": "echo \"No tests specified\" && exit 0"
