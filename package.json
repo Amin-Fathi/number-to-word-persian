@@ -1,6 +1,6 @@
 {
   "name": "number-to-word-persian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert numbers to Persian words.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/number-to-word-persian.git"
+    "url": "https://github.com/Amin-Fathi/number-to-word-persian"
   },
   "keywords": [
     "number",
     "word",
     "persian"
   ],
-  "author": "Your Name",
+  "author": "Amin Fathi",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.7.3"
